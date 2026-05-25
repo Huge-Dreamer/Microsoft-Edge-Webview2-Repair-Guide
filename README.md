@@ -197,4 +197,4 @@ If you used a privacy tool (O&O ShutUp10, WPD, privacy.sexy, etc.) and Edge/WebV
 
 ---
 
-*Guide written based on a real troubleshooting session on Windows 11 (Build 26200) — May 2026*
+*Guide written based on a real troubleshooting session on Windows 11 (Build 26200) — May 2026 by Claude AI*
